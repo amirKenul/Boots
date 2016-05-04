@@ -1,0 +1,118 @@
+body{
+	padding:0;
+	margin:0;
+	color:white;
+	repeat:no-repeat;
+}
+
+.header{
+	padding:20px;
+	background: url(images/first_picture.jpg) no-repeat;
+	height:700px;
+	background-size:cover;
+}
+
+.menu div:first-child{
+	background:black;
+}
+.menuText{
+	 
+}
+
+/*time*/
+.time {
+	background:#AB1F10;
+	
+}
+.time div img{
+	margin:30px 0;
+}
+.button{
+	margin:10px;
+}
+.next{
+	margin-top:150px;
+}
+
+.time h2{
+	margin-top:150px;
+}
+
+
+/*singers*/
+.performers{
+	background:url(images/siniyFon.jpg);
+	
+}
+.performers h3{
+	margin-top:50px;
+}
+
+
+
+
+/*Guitar Green*/
+.performans div:last-child {
+	background:url(images/nearGuitargreen.jpg);
+	background-size:cover;
+	padding:40px 0;
+	
+}
+.performans button{
+	background:#137c61;
+	color:white;
+}
+
+.myImg{
+	width:100%;
+}
+/*Pticka*/
+.pticka {
+	background:url(images/twitter-bg.jpg);
+	padding:20px 0;
+	
+}
+
+
+/*Sponsors*/
+.sponsors{
+	background:#093247;
+	
+}
+h3{
+	margin-top:100px;
+}
+.sponsors .row:nth-child(2) {
+	margin-top:10px;
+}
+		
+/*Map*/
+
+.map{
+	height:450px;
+}	
+		
+		
+/*Contact*/
+.compact{
+	background:#C9A71B;
+}
+
+
+/*yellow*/
+.yellow{
+	background:#F5D400;}
+	
+.yellowPic{
+	background:url(images/contact-bg.jpg);
+}
+.address{
+	margin-top:100px;
+}
+
+
+.footerText{
+	padding:50px;
+	background:url(images/footer-bg.jpg);
+	text-align:center;
+}
